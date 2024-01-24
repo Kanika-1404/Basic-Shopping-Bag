@@ -1,0 +1,15 @@
+.heart{
+    height: 16px;
+}
+.wishlist{
+    background-color: white;
+    padding: 3px 16px;
+    border-radius: 12px;
+}
+.add_to_bag{
+    background-color: aquamarine;
+    border: 2px solid aquamarine;
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 4px 4px;
+}
