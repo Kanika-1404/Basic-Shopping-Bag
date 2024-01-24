@@ -12,7 +12,7 @@ This project created by basic use of HTML, CSS and Java Script.
 
 * **utils.css**: It is the style sheet that has been applied to our calculator.
 
-* **Static Folder*: It contain additional requirements for webpage i.e. images.
+* **Static Folder**: It contain additional requirements for webpage i.e. images.
 
 ## Outputs
 
